@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PG
+- 👋 Hi, I’m @pg
 - 👀 I’m interested in study!
 - 🌱 I’m currently learning
 - 💞️ 
